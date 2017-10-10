@@ -4,7 +4,7 @@
 
 ### 1、CustomActionSheetView
 <center>
-<img src="https://github.com/lxbboy326/Swift4.0-Demo-Updating/blob/master/CustomActionView/CustomActionView/ActionSheetView.gif" width="25%" height="25%" />
+<img src="https://gfycat.com/gifs/detail/FinishedOnlyGrebe" width="25%" height="25%" />
 </center>
 
 
