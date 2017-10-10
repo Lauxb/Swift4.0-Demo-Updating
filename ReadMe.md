@@ -4,7 +4,7 @@
 
 ### 1、CustomActionSheetView
 <center>
-<img src="https://gfycat.com/gifs/detail/FinishedOnlyGrebe" width="25%" height="25%" />
+<img src="https://thumbs.gfycat.com/FinishedOnlyGrebe-size_restricted.gif" width="25%" height="25%" />
 </center>
 
 
