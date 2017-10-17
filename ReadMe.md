@@ -12,5 +12,8 @@
 <img src="https://github.com/lxbboy326/Swift4.0-Demo-Updating/blob/master/MethodSwizzle/MethodSwizzle/MethodSwizzle.gif" width="25%" height="25%" />
 </center>
 
-
+### 2. CADisplayLinkSample
+<center>
+<img src="https://github.com/lxbboy326/Swift4.0-Demo-Updating/blob/master/CADisplayLinkSample/CADisplayLinkSample/CADisplayLinkSample.gif" width="25%" height="25%" />
+</center>
 
